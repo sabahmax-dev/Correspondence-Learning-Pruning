@@ -11,7 +11,7 @@
 - [NM-Net] NM-Net: Mining Reliable Neighbors for Robust Feature Correspondences, arXiv 2019 [[pdf]](https://arxiv.org/pdf/1904.00320)
 - [NG-RANSAC] Neural-Guided RANSAC: Learning Where to Sample Model Hypotheses, ICCV 2019 [[pdf](https://arxiv.org/pdf/1905.04132.pdf)] [[code](https://github.com/vislearn/ngransac)] [[project](https://hci.iwr.uni-heidelberg.de/vislearn/research/neural-guided-ransac/)]
 #### 2020
-- [ACNe] ACNe: Attentive context normalization for robust permutation-equivariant learning, CVPR 2020[[code]](https://github.com/vcg-uvic/acne)
+- [ACNe] ACNe: Attentive context normalization for robust permutation-equivariant learning, CVPR 2020 [[code]](https://github.com/vcg-uvic/acne)
 - [SuperGlue] SuperGlue: Learning Feature Matching with Graph Neural Networks, CVPR 2020 [[code]](https://github.com/magicleap/SuperGluePretrainedNetwork)
 #### 2021
 - [SGMNet] Learning to Match Features with Seeded Graph Matching Network, ICCV 2021 [[pdf](https://ieeexplore.ieee.org/document/9711340/)]
